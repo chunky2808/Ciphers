@@ -4,6 +4,6 @@ Implemented Following Ciphers as a Part of Information Security Lab
 2) Monoalphabetic Cipher
 3) One TimePad Cipher
 
-Works For Both Upper and Lower Case .
+Works For Both Upper and Lower Case Letters.
 
 Used '_' for Space.
